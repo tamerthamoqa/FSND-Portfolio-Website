@@ -19,6 +19,10 @@
   text-align: center;
 }
 
+.text-margin-bottom {
+  margin-bottom: 1em;
+}
+
 .text-center {
   text-align: center;
 }
@@ -37,4 +41,10 @@
 .url {
   color: #2d3c49;
   text-align: center;
+}
+
+/* FOOTER SOCIAL ICONS */
+.footer-social-icons {
+  padding: 1em;
+  margin-right: 0.2em;
 }
