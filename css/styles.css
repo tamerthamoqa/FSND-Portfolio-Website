@@ -6,15 +6,35 @@
   height: auto;
 }
 
+.content-image {
+  padding-top: 10px;
+  width: 250px;
+  height: 250px;
+}
+
 /* TEXT */
-.header-text {
+.text-header {
   padding-top: 10px;
   text-transform: uppercase;
   text-align: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-capitalize {
+  text-transform: capitalize;
 }
 
 /* BORDER LINE */
 .border-line {
   height: 4px;
   background-color: #7d97ad;
+}
+
+/* URL */
+.url {
+  color: #2d3c49;
+  text-align: center;
 }
