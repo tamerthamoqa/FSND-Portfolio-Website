@@ -1,0 +1,20 @@
+
+/* IMAGE */
+.logo-image {
+  padding-top: 15px;
+  width: 100px;
+  height: auto;
+}
+
+/* TEXT */
+.header-text {
+  padding-top: 10px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+/* BORDER LINE */
+.border-line {
+  height: 4px;
+  background-color: #7d97ad;
+}
